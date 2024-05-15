@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🫶
 
-<!--
-**mafehvalente/mafehvalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Fernanda 
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https:www.alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript;
+- Ultizando esse espaço para me organizar e compartilhar meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vocẽ pode entrar em contato comigo 📫
+
+mmariaalvezz@gmail.com
+
+@mafeh.valente
+
+![](https://media1.tenor.com/m/4Y1a-ilrjqQAAAAC/rapunzel-tangled.gif)
